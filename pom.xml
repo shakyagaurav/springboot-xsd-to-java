@@ -62,7 +62,7 @@
 				</executions>
 				<configuration>
 					<sources>
-					<source>${project.basedir}/src/main/resources/xsd/xsdFileName.xsd</source>
+					<source>${project.basedir}/src/main/resources/xsdFileName.xsd</source>
 					</sources>
 					<outputDirectory>${project.basedir}/src/main/java</outputDirectory>
 				</configuration>
